@@ -156,6 +156,3 @@ Help Topics will help streamline your end-user’s help desk experience to ensur
 <p align="center">
     <img src="https://i.imgur.com/RFC1bTH.png" height="65%" width="65%" alt="all tickets that have been created"/>
 </p>
-
-<p align="right"> Next up <a href="https://github.com/IamYorye/ticket-lifecycle"
->Ticket Lifecycle </a></p>
